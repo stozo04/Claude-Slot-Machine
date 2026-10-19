@@ -1,0 +1,7 @@
+node_modules
+dist
+*.tsbuildinfo
+.claude
+neural-jackpot-app
+*.png
+!docs/*.png
