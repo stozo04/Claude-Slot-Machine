@@ -3,7 +3,7 @@
 A browser-based 3D slot machine: 5 reels × 3 rows, 20 fixed paylines, play-money only.
 React 19 · TypeScript · Three.js / React Three Fiber · Drei · postprocessing · GSAP · Zustand · Web Audio.
 
-**Play:** https://stozo04.github.io/neural-jackpot-slot-machine/
+**Play:** https://stozo04.github.io/Claude-Slot-Machine/
 
 > Simulated credits only. No real money, purchases, deposits or withdrawals.
 
